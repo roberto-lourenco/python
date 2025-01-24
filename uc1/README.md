@@ -1,1 +1,1 @@
-# Arquivos utilizados na aula do curso em Python
+# Aula de lógica de programação
